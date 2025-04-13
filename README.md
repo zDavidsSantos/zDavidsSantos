@@ -19,6 +19,7 @@
 <br>
  
 ### Pra quem quiser me conhecer, siga nos canais abaixo!
+PS: Alisson por que não fez o Github ainda?
  
 <div> 
   <a href="https://www.youtube.com/escrevaAqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
